@@ -38,7 +38,7 @@
 </div>
 
 <br/>
-<div style="text-align: center;">
+<div align="center">
 
 <hr/>
 
