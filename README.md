@@ -39,9 +39,9 @@
 
 <br/>
 <hr/>
-<div align="center">
-![LeetCode Stats](https://leetcard.jacoblin.cool/temirovuz?theme=wtf&font=ABeeZee&ext=heatmap)
-</div>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/tolibovasilbek004?theme=wtf&font=ABeeZee&ext=heatmap)
+
 <hr/>
 
 <div align="center">
