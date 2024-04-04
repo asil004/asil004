@@ -39,7 +39,10 @@
 
 <br/>
 <hr/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asil004&theme=github_dark" alt="info">
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asil004&theme=github_dark" alt="info">
+</div>
 <hr/>
 
 <div align="center">
