@@ -39,6 +39,8 @@
 
 <br/>
 <hr/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asil004&theme=github_dark" alt="info">
+<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
