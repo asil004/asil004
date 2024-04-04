@@ -38,15 +38,20 @@
 </div>
 
 <br/>
-<hr/>
-
-
+<div style="text-align: center;">
 
 <hr/>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/tolibovasilbek004?theme=wtf&font=ABeeZee&ext=heatmap)
+
+<hr/>
+
+</div>
+
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asil004&theme=github_dark" alt="info">
-    ![LeetCode Stats](https://leetcard.jacoblin.cool/tolibovasilbek004?theme=wtf&font=ABeeZee&ext=heatmap)
+    
 </div>
 <hr/>
 
