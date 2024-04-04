@@ -39,6 +39,10 @@
 
 <br/>
 <hr/>
+<div align="center">
+    ![LeetCode Stats](https://leetcard.jacoblin.cool/tolibovasilbek004?theme=wtf&font=ABeeZee&ext=heatmap)
+</div>
+<hr/>
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asil004&theme=github_dark" alt="info">
