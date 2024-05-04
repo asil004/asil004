@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a freelancer**
+ 🔭 I’m currently working on **the ALTEK.inc**
  
  🌱 I’m currently learning **React, Supabase, AWS**
 
